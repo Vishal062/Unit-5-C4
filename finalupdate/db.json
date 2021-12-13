@@ -1,0 +1,24 @@
+{
+  "users1": [
+    {
+      "Firstname": "Vis"
+    },
+    {
+      "Lastname": "kumar"
+    },
+    {
+      "DOB": "01/01/1987"
+    }
+  ],
+  "users2": [
+    {
+      "Firstname": "Vishal"
+    },
+    {
+      "Lastname": "Sinha"
+    },
+    {
+      "DOB": "01/05/1995"
+    }
+  ]
+}
